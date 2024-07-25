@@ -40,4 +40,3 @@
 
 ### <div align="left">Automation and Testing </div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40"/>
-![image](https://github.com/user-attachments/assets/80e09ea4-268c-45b4-938f-492dc194dd42)
