@@ -40,3 +40,7 @@
 
 ### <div align="left">Automation and Testing </div>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40"/>
+
+---
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvaishnavii&layout=compact&theme=buefy&hide_border=true&langs_count=20" />
+
